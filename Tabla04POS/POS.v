@@ -1,6 +1,6 @@
 //Universidad del Valle Digital 1
 //Rodrigo José García Ambrosy Carne:19085
-//Tablo 04 POS
+//Tabla 04 POS
 
 //Hago el módulo
 module POS();

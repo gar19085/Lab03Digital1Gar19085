@@ -1,6 +1,6 @@
 //Universidad del Valle Digital 1
 //Rodrigo José García Ambrosy Carne:19085
-//Tablo 01 SOP
+//Tabla 01 SOP
 
 //Hago el módulo
 module SOP();
